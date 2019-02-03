@@ -1,0 +1,12 @@
+C:\Users\Job\source\repos\alazer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Job\source\repos\alazer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Job\source\repos\alazer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Job\source\repos\alazer\WindowsFormsApp1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Job\source\repos\alazer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Job\source\repos\alazer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Job\source\repos\alazer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Job\source\repos\alazer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Job\source\repos\alazer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Job\source\repos\alazer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Job\source\repos\alazer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Job\source\repos\alazer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
