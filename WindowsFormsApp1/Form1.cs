@@ -24,7 +24,7 @@ namespace WindowsFormsApp1
         }
 
         private void FormLoad(object sender, EventArgs e) {
-            timer1
+          
         }
         private void bunifuImageButton1_Click(object sender, EventArgs e)
         {
